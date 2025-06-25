@@ -27,3 +27,14 @@
 
 ## Βίντεο
 * MySQL: From Beginner to Monster Level (4-Hour Complete Course) - https://www.youtube.com/watch?v=h4R-nJbM_ac
+* [Entity Relationship Diagrams](https://www.youtube.com/watch?v=LowjDtiNlk4)
+
+
+## Example Databases
+* [employees Database](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test your applications and database servers
+* [world Database](https://dev.mysql.com/doc/world-setup/en/)
+* [sakila Database](https://dev.mysql.com/doc/sakila/en/)
+* [airportdb Database](https://dev.mysql.com/doc/airportdb/en/)
+* [chinook Database](https://github.com/lerocha/chinook-database) - Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2
+* [MySQL Sample Database](https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/) - The classicmodels database is a retailer of scale models of classic cars. It contains typical business data, including information about customers, products, sales orders, sales order line items, and more.
+* [test_db](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test your applications and database servers
