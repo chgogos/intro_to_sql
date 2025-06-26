@@ -9,7 +9,6 @@
 * SQLZoo - https://www.sqlzoo.net/wiki/SQL_Tutorial
 * MySQL Tutorial from the MySQL 8.0 Reference Manual - https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/
 
-
 ## Games
 * https://selectstarsql.com/ - Select Star SQL
 * https://www.sqlnoir.com/ - Solve mysteries through SQL
@@ -23,6 +22,11 @@
 * https://app.diagrams.net/ - draw.io
 * https://dbdiagram.io/home
 * https://drawsql.app/diagrams
+
+## Λογισμικά 
+* https://vscode-sqltools.mteixeira.dev/en/home - VSCode SQLTools extension
+* https://dbeaver.io/ - DBeaver Community is a free cross-platform database tool for developers, database administrators, analysts, and everyone working with data. It supports all popular SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more.
+* https://www.dbvis.com/ 
 
 
 ## Βίντεο
