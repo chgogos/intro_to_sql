@@ -3,7 +3,11 @@
 [Γκόγκος Χρήστος](https://chgogos.github.io/)
 
 ## Παρουσίαση
-* [Εισαγωγή στη γλώσσα SQL - ημέρα 1 σεμιναρίου ΕΚΔΔΑ](./Εισαγωγή%20στη%20γλώσσα%20SQL.pdf) 
+* [Εισαγωγή στη γλώσσα SQL - σεμινάριο ΕΚΔΔΑ, ημέρα 1](./resources//Εισαγωγή%20στη%20γλώσσα%20SQL.pdf) 
+
+## Βιβλία
+* [ΕΚΔΔΑ - Εισαγωγή στη MySQL](https://resources.ekdd.gr/index.php/2021-06-03-10-59-02/79-mysql)
+* [Λουκόπουλος, Θ., & Θεοδωρίδης, Ε. (2016). Introduction to SQL [Εργαστηριακός Οδηγός]. Κάλλιπος, Ανοικτές Ακαδημαϊκές Εκδόσεις. https://dx.doi.org/10.57713/kallipos-709](https://repository.kallipos.gr/handle/11419/6247?&locale=el)
 
 ## Tutorials
 * SQLZoo - https://www.sqlzoo.net/wiki/SQL_Tutorial
